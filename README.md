@@ -1,11 +1,13 @@
 # Tips for setting up a new project
 
+## config
+https://github.com/postmodernistx/configs
 
-### Readme
+## Readme
 https://readme.so/
 
-Github Docs - Basic writing and formatting syntax
+### Github Docs - Basic writing and formatting syntax
 https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
-emoji-cheat-sheet
+### emoji-cheat-sheet 
 https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
