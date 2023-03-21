@@ -36,8 +36,25 @@ https://www.a11yproject.com/checklist/
 ##### Börja med:
 https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site
 
-##### För vite:
+##### Konfig för vite + github pages:
 https://vitejs.dev/guide/static-deploy.html#github-pages
+
+- Basically: skapa en fil `vite.config.js`
+- Klistra in:
+```
+import { defineConfig } from "vite";
+export default defineConfig({ base: "/inlamningsuppgift-1-Ayngie/", build: { target: "esnext" } });
+
+```
+**OBS 1!** - *Glöm ej byta ut namnet på repot :)*
+
+**OBS 2!** - *Kan behöva rensa cachen för att det ska funka om man öppnat upp githubpagessidan o den inte laddades helt*...
+Gör det genom att:
+- öppna upp sidan där den deployas
+- öppna inspect
+- välj fliken network
+- klicka i disable cache och OBS! med denna iklickad - uppdatera sidan!
+- Därefter kan vi klicka ur den o så ska det funka.
 
 ---
 
