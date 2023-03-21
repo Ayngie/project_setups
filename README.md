@@ -20,6 +20,12 @@ https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
 
 ---
 
+## SCSS
+##### BEM
+https://github.com/Carowa27/TS_Group-assignments_potion-shop/blob/main/src/scss/_landingpage.scss
+
+---
+
 ## INSPO
 ### Medieinstitutet repon
 https://github.com/orgs/Medieinstitutet/repositories
