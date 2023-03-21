@@ -20,6 +20,11 @@ https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
 
 ---
 
+## Git commit convention
+https://www.conventionalcommits.org/en/v1.0.0/
+
+---
+
 ## SCSS
 ##### BEM
 https://github.com/Carowa27/TS_Group-assignments_potion-shop/blob/main/src/scss/_landingpage.scss
