@@ -32,6 +32,15 @@ https://www.a11yproject.com/checklist/
 
 ---
 
+## GitHub Pages
+##### Börja med:
+https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site
+
+##### För vite:
+https://vitejs.dev/guide/static-deploy.html#github-pages
+
+---
+
 ## INSPO
 ### Medieinstitutet repon
 https://github.com/orgs/Medieinstitutet/repositories
