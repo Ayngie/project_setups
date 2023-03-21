@@ -20,8 +20,13 @@ https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
 
 ---
 
-## Git commit convention
+## Git commits 
+
+##### Conventional commits
 https://www.conventionalcommits.org/en/v1.0.0/
+
+##### Gitmojis
+https://gitmoji.dev/
 
 ---
 
