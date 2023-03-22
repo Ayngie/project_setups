@@ -43,6 +43,8 @@ https://www.a11yproject.com/checklist/
 ---
 
 ## GitHub Pages
+*OBS! att repot måste vara publikt :)*
+
 ##### Börja med:
 https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site
 
