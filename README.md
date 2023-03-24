@@ -78,3 +78,6 @@ I vite: i main.js: `import "../scss/index.scss";`
 ## INSPO
 ### Medieinstitutet repon
 https://github.com/orgs/Medieinstitutet/repositories
+
+## Tips för juniorer
+https://github.com/postmodernistx/career-advice-for-juniors
