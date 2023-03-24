@@ -50,6 +50,7 @@ https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a
 
 ##### Konfig för vite + github pages:
 https://vitejs.dev/guide/static-deploy.html#github-pages
+*(välj roots?)*
 
 - Basically: skapa en fil `vite.config.js`
 - Klistra in:
@@ -67,6 +68,10 @@ Gör det genom att:
 - välj fliken network
 - klicka i disable cache och OBS! med denna iklickad - uppdatera sidan!
 - Därefter kan vi klicka ur den o så ska det funka.
+
+##### Länka in css/scss
+Länka in CSS:en/Sass via main.ts istället, så får du garanterat en korrekt komprimering av koden vid publicering :)
+I vite: i main.js: `import "../scss/index.scss";`
 
 ---
 
