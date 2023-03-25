@@ -19,6 +19,9 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
 
 ##### Shields / badges 
+Färdiga: https://github.com/alexandresanlim/Badges4-README.md-Profile
+Make your own: https://shields.io/
+https://github.com/badges/shields
 
 ##### Colored text
 ```diff
