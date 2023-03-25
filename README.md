@@ -20,6 +20,16 @@ https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
 
 ##### Shields / badges 
 
+##### Colored text
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
+https://stackoverflow.com/questions/11509830/how-to-add-color-to-githubs-readme-md-file
+
 ---
 
 ## Git commits 
