@@ -110,7 +110,8 @@ https://vue-loader.vuejs.org/guide/pre-processors.html
 
 Installera pre-processer:
 `npm install -D sass-loader node-sass`
-ev. `npm i sass`
+
++ ev. `npm i sass`
 
 Skapa fil webpack.config.js med innehåll (se exempelfil i detta repo).
 
