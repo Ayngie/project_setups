@@ -99,10 +99,10 @@ Bestäm projektnamn.
 
 Välj Vue + TS.
 
-cd <projekt> // navigera till projektmappen
+`cd <projekt>` // navigera till projektmappen
 
-npm i       // installera npm-paket
-npm run dev  // starta projektet
+`npm i`       // installera npm-paket
+`npm run dev`  // starta projektet
 
 
 #### Vue + scss
