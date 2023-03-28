@@ -1,3 +1,5 @@
+// config för vue + scss (+indentering)
+
 module.exports = {
   module: {
     rules: [
