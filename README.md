@@ -63,9 +63,15 @@ https://www.a11yproject.com/checklist/
 ##### Börja med:
 https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site
 
+Vill välja branchen gh-pages. 
+
+Finns gh-pages inte? Testa konfigurera om lite på repots settings --> Actions --> General. Klicka i read and write under Workflow permissions, samt allow github actions to create and approve pull request.
+
+##### 
+Behöver också ha en mapp i roten av projektet som heter `.github` --> med en mapp `workflows` --> med fil `deploy.yml`. För innehål i deploy.yml, kolla exempel i detta repo. OBS! Bredvid mappen workflows (dvs på samma nivå i mappen .github) har vi en fil .keep (tom på innehåll).
+
 ##### Konfig för vite + github pages:
 https://vitejs.dev/guide/static-deploy.html#github-pages
-*(välj roots?)*
 
 - Basically: skapa en fil `vite.config.js`
 - Klistra in:
@@ -111,7 +117,7 @@ https://vue-loader.vuejs.org/guide/pre-processors.html
 Installera pre-processer:
 `npm install -D sass-loader node-sass`
 
-+ ev. `npm i sass`
++ installera `npm i sass`
 
 Skapa fil webpack.config.js med innehåll (se exempelfil i detta repo).
 
