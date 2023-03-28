@@ -83,7 +83,7 @@ export default defineConfig({ base: "/inlamningsuppgift-1-Ayngie/", build: { tar
 *OBS! Glöm ej byta ut namnet på repot :)*
 
 #### No build?
-Kan behöva cleara cachen på sidan: *Kan behöva rensa cachen för att det ska funka om man öppnat upp githubpagessidan o den inte laddades helt*...
+1. Kan behöva cleara cachen på sidan: *Kan behöva rensa cachen för att det ska funka om man öppnat upp githubpagessidan o den inte laddades helt*...
 Gör det genom att:
 - öppna upp sidan där den deployas
 - öppna inspect
@@ -91,7 +91,7 @@ Gör det genom att:
 - klicka i disable cache och OBS! med denna iklickad - uppdatera sidan!
 - Därefter kan vi klicka ur den o så ska det funka.
 
-Samt kan behöva köra om alla deploy workflows: på pages build and deployment --> re-run all jobs.
+2. Samt kan behöva köra om alla deploy workflows: på pages build and deployment --> re-run all jobs.
 
 #### Länka in css/scss
 Länka in CSS:en/Sass via main.ts istället, så får du garanterat en korrekt komprimering av koden vid publicering :)
