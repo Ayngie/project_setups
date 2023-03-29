@@ -12,8 +12,14 @@ https://readme.so/
 #### Hur infoga bild i readme:n
 https://stackoverflow.com/questions/14494747/how-to-add-images-to-readme-md-on-github
 
+#### Fixa demofilm av sidan:
+https://gifcap.dev/
+
 #### Github Docs - Basic writing and formatting syntax
 https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+
+#### Gitmoji
+https://gitmoji.dev/
 
 #### emoji-cheat-sheet 
 https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
@@ -39,9 +45,16 @@ https://stackoverflow.com/questions/11509830/how-to-add-color-to-githubs-readme-
 
 #### Conventional commits
 https://www.conventionalcommits.org/en/v1.0.0/
+https://www.conventionalcommits.org/en/v1.0.0/#summary
 
 #### Gitmojis
 https://gitmoji.dev/
+
+---
+
+## git
+#### Help:
+https://ohshitgit.com/
 
 ---
 
@@ -123,6 +136,27 @@ Installera pre-processer:
 + installera `npm i sass`
 
 Skapa fil webpack.config.js med innehåll (se exempelfil i detta repo).
+
+---
+
+## FURTHER READING & / TIPS
+### Atomic design
+https://bradfrost.com/blog/post/atomic-web-design/
+
+### Sublime text
+https://www.sublimetext.com/docs/
+
+## JavaScript30
+https://javascript30.com/
+
+## Surveys
+https://survey.devographics.com/en-US
+
+## State of JS
+https://2022.stateofjs.com/en-US/
+
+## State of CSS
+https://2022.stateofcss.com/en-US/features/colors/
 
 ---
 
