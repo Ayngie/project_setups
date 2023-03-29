@@ -135,7 +135,7 @@ Installera pre-processer:
 
 + installera `npm i sass`
 
-Skapa fil webpack.config.js med innehåll (se exempelfil i detta repo).
+Skapa fil (i roten av projektet) webpack.config.js med innehåll (se exempelfil i detta repo).
 
 ---
 
