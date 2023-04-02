@@ -1,7 +1,3 @@
-# Tips for setting up a new project
-
-## config
-https://github.com/postmodernistx/configs
 
 ---
 
