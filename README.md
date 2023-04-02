@@ -60,9 +60,3 @@ https://github.com/Carowa27/TS_Group-assignments_potion-shop/blob/main/src/scss/
 
 ---
 
-## Accessibility
-a11y:
-https://www.a11yproject.com/checklist/
-
----
-
