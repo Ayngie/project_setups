@@ -29,12 +29,3 @@ https://github.com/badges/shields
 @@ text in purple (and bold)@@
 ```
 https://stackoverflow.com/questions/11509830/how-to-add-color-to-githubs-readme-md-file
-
----
-
-## SCSS
-#### BEM
-https://github.com/Carowa27/TS_Group-assignments_potion-shop/blob/main/src/scss/_landingpage.scss
-
----
-
